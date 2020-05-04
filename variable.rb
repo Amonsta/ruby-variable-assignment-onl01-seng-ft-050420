@@ -3,5 +3,4 @@
 
 greeting = "Hello World"
 
-  greeting
   
